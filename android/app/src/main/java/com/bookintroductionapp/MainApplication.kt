@@ -1,4 +1,4 @@
-package com.bookintroductionapp
+package com.NewsApp
 
 import android.app.Application
 import com.facebook.react.PackageList
